@@ -31,7 +31,7 @@ Create an interface for users to annotate pictures from photo surveys to distill
     - Database with meta/covariates for pictures
     - Sampling frame
       - Tiling?
-      - Repeatition?
+      - Repetition?
       - Randomization?
     - Spooling process to the _Annotation Tool_
 2. Annotation Tool
@@ -41,7 +41,7 @@ Create an interface for users to annotate pictures from photo surveys to distill
 
 1. _Photo Management_ 
 2. __Annotation Tool__
-    - User Iterface (UI)
+    - User Interface (UI)
     - Annotation Mechanism (UI)
     - Usability (UX)
     - Documentation 
@@ -53,16 +53,16 @@ Create an interface for users to annotate pictures from photo surveys to distill
 1. _Photo Management_ 
 2. _Annotation Tool_
 3. Creation of analyzable data
-    - Table(s) compatiable with Database hoding photo info
-    - Multiple Reader Comparission Tool
-    - Relate annotation back to orginal file (i.e. not just the tile)
+    - Table(s) compatible with database holding photo info
+    - Multiple Reader Comparison Tool
+    - Relate annotation back to original file (i.e. not just the tile)
     - Update and inform _spooling process_ from before
 
 ## Conclusion
 
-- Lots of pieces, but all seem managable.
+- Lots of pieces, but all seem manageable.
 - There are non-coding tasks.
-- Techinical Skills Needed:
+- Technical Skills Needed:
     - Database: Postgres / SQL
     - Interface:  Java or Pyhton / Interface Design / Documentation
     - Data product: above database skills / Python or R
