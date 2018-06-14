@@ -64,6 +64,6 @@ Create an interface for users to annotate pictures from photo surveys to distill
 - There are non-coding tasks.
 - Technical Skills Needed:
     - Database: Postgres / SQL
-    - Interface:  Java or Pyhton / Interface Design / Documentation
+    - Interface:  Java or Python / Interface Design / Documentation
     - Data product: above database skills / Python or R
 
