@@ -1,7 +1,7 @@
 ---
 title: "Qu(h)ackthon 2018 - Proposal"
 author: "Rob Fowler"
-date: 2018-06-14"
+date: "2018-06-14"
 output: ioslides_presentation
 ---
 
