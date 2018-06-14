@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Topic: Extract Data from Photos
 Create an interface for users to annotate pictures from photo surveys to distill higher level data about bird count (possibly species).
 
-- When:  Saturday, 11 August 2018  ??am - ??pm
+- When:  Saturday 11 August 2018  ??am - ??pm
   - Code for America: [National Day of Civic Hacking](https://www.codeforamerica.org/events/national-day-of-civic-hacking)
 - Where: ???
 - Who: Anybody and Everybody 
